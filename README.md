@@ -1,4 +1,4 @@
-# 🔍 OSINT for Beginners | Практическое руководство по OSINT
+# 🔍 OSINT for Beginners | Полное руководство для новичков
 
 ![OSINT Guide](https://img.shields.io/badge/OSINT-Beginner_Friendly-blue?style=for-the-badge&logo=search)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
